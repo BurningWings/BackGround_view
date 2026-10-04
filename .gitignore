@@ -1,0 +1,10 @@
+.qa/
+dist/
+*.exe
+*.zip
+*.pdb
+*.user
+.vs/
+assets/icon.png
+assets/icon.ico
+.wallpaper-icon-*
