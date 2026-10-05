@@ -3,6 +3,10 @@
 Show only your current desktop wallpaper. Windows 10/11; no installation required.
 
 ## Get started
+- Shows the current computer’s desktop wallpaper.
+- Minimizes windows and hides desktop icons and taskbars.
+- Exits when any key is pressed or the left mouse button is clicked.
+- Restores windows, desktop icons, and taskbars on exit.
 
 1. Download this repository as a ZIP and extract it.
 2. Open PowerShell in the extracted folder and run:
